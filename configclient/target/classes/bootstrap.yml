@@ -1,9 +1,0 @@
-spring:
-  application:
-    name: SpringBootJwtAuthentication
-  cloud:
-    config:
-      uri: http://localhost:8888
-      username: configserver
-      password: mysecret
-      label: dev
