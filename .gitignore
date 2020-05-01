@@ -1,2 +1,2 @@
-configserver/target/
-configclient/target/
+*/target/
+.idea
